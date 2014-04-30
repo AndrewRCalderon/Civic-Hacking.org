@@ -1,13 +1,17 @@
-
 <h1>
 Civic-Hacking.org
 </h1>
 
 
-Introduction:
+<strong>Introduction:</strong>
 
 A website that introduces people to the basics of civic hacking, civic technology, and the open government movement. 
-All of the information on our resources page is hosted on google docs which you can access/edit directly using the following links:
+
+
+<strong>Resources:</strong>
+
+All of the information on our resources page is hosted on google spreadsheets which you can access/edit directly using the following links:
+
 
 <strong>Data Sources </strong>
 
